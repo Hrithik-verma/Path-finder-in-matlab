@@ -6,7 +6,7 @@ first install peter corke robotics toolbox tutorial :
 
 Before ruuning the code make sure that you add toolbox to path 
                             or
->>startup_rvc.m
+>> startup_rvc.m
 
 otherwise code will show some error
 
