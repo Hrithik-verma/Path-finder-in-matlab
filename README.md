@@ -1,7 +1,12 @@
 # Path-finder-in-matlab
-Path finder in matlab using peter corke robotics toolbox tutorial
+![](picture/path.PNG)
 
-first install peter corke robotics toolbox tutorial :
+
+
+
+path finder in matlab using peter corke robotics toolbox tutorial
+
+first install peter corke robotics toolbox tutorial in matlab:
  https://www.youtube.com/watch?v=VyWMFxmMDXg
 
 Before ruuning the code make sure that you add toolbox to path 
